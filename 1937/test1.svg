@@ -1,0 +1,3 @@
+<svg width="704" height="161" viewBox="0 0 704 161" fill="none" xmlns="http://www.w3.org/2000/svg">
+<animate attributeName="x" dur="0s" onbegin="alert(1)"/>
+</svg>
