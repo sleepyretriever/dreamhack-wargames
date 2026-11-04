@@ -1,0 +1,1 @@
+inspect source code, the only thing that doesn't allow you to buy negative amount is a min = 0 html line which you can delete within developers tool
